@@ -20,6 +20,7 @@
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -27,8 +28,12 @@
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="GotoTest" />
   <action id="NextOccurence" />
+  <action id="ParameterInfo" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
